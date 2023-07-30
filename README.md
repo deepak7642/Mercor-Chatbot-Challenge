@@ -23,8 +23,9 @@ The Mini JD Generator App is created by Deepak Kaura, an enthusiastic Data Scien
 The Mini JD Generator App is a user-friendly web application built to automatically generate job descriptions. It utilizes advanced natural language processing technology to produce detailed job responsibilities based on user-provided information. This app is designed to save time for HR professionals by automating the process of writing job descriptions.
 
 ----------------------------------------
+### **How to use it-**
 
-### **Input Fields:**
+#### **Input Fields:**
 
 * **Job Title:** Enter the title of the job you want to create a description for.
 
@@ -96,7 +97,7 @@ The Mini JD Generator App is a user-friendly web application built to automatica
 - **Streamlit:** An open-source Python library used for creating web applications for data science and machine learning projects. It allows for easy integration and visualization of data and model outputs.
 
 - **Open-Source GPT Model:** The language model used for generating job responsibilities based on the provided inputs. The model is hosted on the Open Assistant and accessed through the text_generation library.
-
+Here is the source of the model used while building this app - "[Open-Source GPT Model](https://huggingface.co/OpenAssistant/oasst-sft-1-pythia-12b)"
 --------
 
 ### **Architecture Overview:**
