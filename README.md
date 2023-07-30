@@ -96,7 +96,7 @@ The Mini JD Generator App is a user-friendly web application built to automatica
 
 - **Python:** The programming language used to write the entire application.
 
-- **Streamlit:** An open-source Python library used for creating web applications for data science and machine learning projects. It allows for easy integration and visualization of data and model outputs. Also web host over streamlit cloud.
+- **Streamlit:** An open-source Python library used for creating web applications for data science and machine learning projects. It allows for easy integration and visualization of data and model outputs. Also web host through streamlit cloud.
 
 - **Open-Source GPT Model:** The language model used for generating job responsibilities based on the provided inputs. The model is hosted on the Open Assistant and accessed through the text_generation library.
 Here is the source of the model used while building this app - "[Open-Source GPT Model](https://huggingface.co/OpenAssistant/oasst-sft-4-pythia-12b-epoch-3.5/discussions)"
