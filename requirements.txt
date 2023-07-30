@@ -1,3 +1,2 @@
-streamlit==1.25.0
+streamlit==1.24.1
 text-generation==0.5.0
-python==3.10.12
