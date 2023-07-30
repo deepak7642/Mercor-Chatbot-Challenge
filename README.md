@@ -12,6 +12,8 @@ for more details click here : [Mercor Chatbot Challenge](https://unstop.com/hack
 
 #### **App link: https://mini-jd-generator.streamlit.app/**
 
+#### **App demo link : https://youtu.be/RZdfdswam8M**
+
 * **Note:- This app costing is 0 rupees and can easily run on CPU.**
 
 
