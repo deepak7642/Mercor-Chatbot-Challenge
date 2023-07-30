@@ -10,6 +10,9 @@ for more details click here : [Mercor Chatbot Challenge](https://unstop.com/hack
 
 ## **Mini JD Generator App (Documentation) : -**
 
+### **App link: https://mini-jd-generator.streamlit.app/**
+
+
 ### **App Creator:**
 The Mini JD Generator App is created by Deepak Kaura, an enthusiastic Data Scientist. The app utilizes the Open Assistant language model, which is an open-source GPT model, to provide accurate and detailed job responsibilities based on the user's inputs.
 
