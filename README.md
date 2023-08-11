@@ -167,7 +167,7 @@ Here is the source of the model used while building this app - "[Open-Source GPT
                              | (job_title, work_experience_required, company_name, job_location)
                              v
                   +---------------------------------+
-                  |  GPT-3.5 Text Generation Model  |
+                  |  Open-Source GPT Text Generation Model  |
                   +---------------------------------+
                              |
                              |  Generated Job Responsibilities
